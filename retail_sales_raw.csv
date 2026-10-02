@@ -1,0 +1,511 @@
+order_id,customer_id,product_id,quantity,order_date,customer_name,city,product_name,category,unit_price
+1001,38,10,6.0,2025-04-13,Customer 38,Chennai,Cooking Oil,Grocery,180
+1002,10,5,4.0,08/11/2025,Customer 10,Calicut,T-Shirt,Clothing,600
+1003,19,10,6.0,14/07/2025,Customer 19,Chennai,Cooking Oil,Grocery,180
+1004,24,4,10.0,14/08/2025,Customer 24,Chennai,Smart Watch,Electronics,6000
+1005,25,12,1.0,2025-06-17,Customer 25,Bangalore,Snacks Box,Grocery,150
+1006,3,7,10.0,2025-03-01,Customer 3,Bangalore,Sneakers,Clothing,3200
+1007,28,9,5.0,2025-11-24,Customer 28,Chennai,Rice 5kg,Grocery,450
+1008,8,11,8.0,10/10/2025,Customer 8,Bangalore,Coffee Pack,Grocery,320
+1009,38,10,5.0,30/12/2025,Customer 38,Chennai,Cooking Oil,Grocery,180
+1010,35,11,4.0,2025-11-09,Customer 35,Chennai,Coffee Pack,Grocery,320
+1011,47,7,8.0,17/04/2025,Customer 47,Trivandrum,Sneakers,Clothing,3200
+1012,38,1,7.0,2025-04-03,Customer 38,CHENNAI,Laptop,Electronics,55000
+1013,19,6,2.0,2025-04-01,Customer 19,Chennai,Jeans,Clothing,1800
+1014,49,3,8.0,02/12/2025,Customer 49,Bangalore,Headphones,Electronics,2500
+1015,21,11,8.0,2025-07-23,Customer 21,Trivandrum,Coffee Pack,Grocery,320
+1016,17,3,4.0,15/06/2025,Customer 17,Trivandrum,Headphones,Electronics,2500
+1017,46,3,10.0,20/12/2025,Customer 46,Chennai,Headphones,Electronics,2500
+1018,19,3,7.0,2025-08-09,Customer 19,Chennai,Headphones,Electronics,2500
+1019,4,8,4.0,2025-11-28,Customer 4,Trivandrum,Jacket,Clothing,4500
+1020,24,7,1.0,2025-12-26,Customer 24,Chennai,Sneakers,Clothing,3200
+1021,40,12,7.0,2025-01-29,Customer 40,Bangalore,Snacks Box,Grocery,150
+1022,10,5,3.0,2025-05-12,Customer 10,Calicut,T-Shirt,Clothing,600
+1023,24,4,8.0,2025-09-25,Customer 24,Chennai,Smart Watch,Electronics,6000
+1024,7,1,6.0,2025-10-24,Customer 7,Calicut,Laptop,Electronics,55000
+1025,35,1,5.0,24/02/2025,Customer 35,Chennai,Laptop,Electronics,55000
+1026,24,5,2.0,2025-04-27,Customer 24,Chennai,T-Shirt,Clothing,600
+1027,17,12,8.0,2025-07-20,Customer 17,Trivandrum,Snacks Box,Grocery,150
+1028,12,7,2.0,19/10/2025,Customer 12,Chennai,Sneakers,Clothing,3200
+1029,29,11,5.0,11/02/2025,Customer 29,Trivandrum,Coffee Pack,Grocery,320
+1030,34,2,9.0,08/08/2025,Customer 34,Trivandrum,Smartphone,Electronics,22000
+1031,48,2,10.0,19/04/2025,Customer 48,Chennai,Smartphone,Electronics,22000
+1032,22,11,10.0,2025-03-20,Customer 22,KOCHI,Coffee Pack,Grocery,320
+1033,9,2,10.0,08/07/2025,Customer 9,Kochi,Smartphone,Electronics,22000
+1034,42,1,6.0,2025-06-01,Customer 42,Bangalore,Laptop,Electronics,55000
+1035,32,5,3.0,2025-08-21,Customer 32,Kochi,T-Shirt,Clothing,600
+1036,36,12,9.0,2025-04-26,Customer 36,Calicut,Snacks Box,Grocery,150
+1037,5,9,9.0,28/10/2025,Customer 5,Trivandrum,Rice 5kg,Grocery,450
+1038,16,2,10.0,29/01/2025,Customer 16,Bangalore,Smartphone,Electronics,22000
+1039,39,11,7.0,2025-11-11,Customer 39,Kochi,Coffee Pack,Grocery,320
+1040,42,11,2.0,2025-01-11,Customer 42,Bangalore,Coffee Pack,Grocery,320
+1041,22,10,6.0,26/09/2025,Customer 22,Kochi,Cooking Oil,Grocery,180
+1042,41,11,5.0,2025-05-07,Customer 41,Calicut,Coffee Pack,Grocery,320
+1043,43,3,9.0,20/05/2025,Customer 43,Bangalore,Headphones,Electronics,2500
+1044,20,12,4.0,2025-01-07,Customer 20,Trivandrum,Snacks Box,Grocery,150
+1045,45,4,4.0,14/09/2025,Customer 45,Calicut,Smart Watch,Electronics,6000
+1046,15,10,1.0,02/03/2025,Customer 15,,Cooking Oil,Grocery,180
+1047,12,7,9.0,2025-08-29,Customer 12,Chennai,Sneakers,Clothing,3200
+1048,35,10,8.0,22/09/2025,Customer 35,Chennai,Cooking Oil,Grocery,180
+1049,32,8,1.0,05/11/2025,Customer 32,Kochi,Jacket,Clothing,4500
+1050,7,8,5.0,16/09/2025,Customer 7,Calicut,Jacket,Clothing,4500
+1051,42,8,5.0,21/04/2025,Customer 42,Bangalore,Jacket,Clothing,4500
+1052,10,10,5.0,2025-09-27,Customer 10,Calicut,Cooking Oil,Grocery,180
+1053,41,9,10.0,29/10/2025,Customer 41,Calicut,Rice 5kg,Grocery,450
+1054,1,2,2.0,2025-04-26,Customer 1,Calicut,Smartphone,Electronics,22000
+1055,40,10,4.0,2025-02-15,Customer 40,Bangalore,Cooking Oil,Grocery,180
+1056,40,7,2.0,21/11/2025,Customer 40,Bangalore,Sneakers,Clothing,3200
+1057,40,4,3.0,23/02/2025,Customer 40,Bangalore,Smart Watch,Electronics,6000
+1058,34,7,10.0,2025-08-05,Customer 34,Trivandrum,Sneakers,Clothing,3200
+1059,24,12,10.0,2025-03-28,Customer 24,Chennai,Snacks Box,Grocery,150
+1060,36,11,1.0,2025-02-15,Customer 36,Calicut,Coffee Pack,Grocery,320
+1061,14,11,7.0,2025-10-11,Customer 14,BANGALORE,Coffee Pack,Grocery,320
+1062,40,6,3.0,22/02/2025,Customer 40,,Jeans,Clothing,1800
+1063,28,10,2.0,02/09/2025,Customer 28,Chennai,Cooking Oil,Grocery,180
+1064,23,5,3.0,2025-09-10,Customer 23,Calicut,T-Shirt,Clothing,600
+1065,26,9,2.0,22/01/2025,Customer 26,Bangalore,Rice 5kg,Grocery,450
+1066,29,8,5.0,2025-03-05,Customer 29,,Jacket,Clothing,4500
+1067,2,3,10.0,2025-10-17,Customer 2,Bangalore,Headphones,Electronics,2500
+1068,7,4,6.0,2025-07-05,Customer 7,Calicut,Smart Watch,Electronics,6000
+1069,13,1,8.0,14/02/2025,Customer 13,Bangalore,Laptop,Electronics,55000
+1070,6,2,5.0,28/12/2025,Customer 6,Chennai,Smartphone,Electronics,22000
+1071,22,6,1.0,07/04/2025,Customer 22,Kochi,Jeans,Clothing,1800
+1072,34,6,1.0,02/01/2025,Customer 34,Trivandrum,Jeans,Clothing,1800
+1073,33,2,3.0,2025-12-04,Customer 33,Calicut,Smartphone,Electronics,22000
+1074,24,6,3.0,07/01/2025,Customer 24,Chennai,Jeans,Clothing,1800
+1075,43,8,,21/07/2025,Customer 43,Bangalore,Jacket,Clothing,4500
+1076,29,3,9.0,29/12/2025,Customer 29,Trivandrum,Headphones,Electronics,2500
+1077,4,5,9.0,30/07/2025,Customer 4,Trivandrum,T-Shirt,Clothing,600
+1078,39,5,7.0,2025-08-02,Customer 39,Kochi,T-Shirt,Clothing,600
+1079,29,7,6.0,22/05/2025,Customer 29,Trivandrum,Sneakers,Clothing,3200
+1080,32,5,7.0,2025-02-16,Customer 32,Kochi,T-Shirt,Clothing,600
+1081,29,9,5.0,29/07/2025,Customer 29,TRIVANDRUM,Rice 5kg,Grocery,450
+1082,28,4,7.0,2025-11-24,Customer 28,Chennai,Smart Watch,Electronics,6000
+1083,5,6,8.0,03/02/2025,Customer 5,Trivandrum,Jeans,Clothing,1800
+1084,28,5,,18/11/2025,Customer 28,Chennai,T-Shirt,Clothing,600
+1085,40,3,7.0,2025-06-01,Customer 40,Bangalore,Headphones,Electronics,2500
+1086,16,9,1.0,2025-07-15,Customer 16,Bangalore,Rice 5kg,Grocery,450
+1087,31,3,8.0,2025-03-02,Customer 31,Trivandrum,Headphones,Electronics,2500
+1088,2,4,4.0,15/08/2025,Customer 2,Bangalore,Smart Watch,Electronics,6000
+1089,18,10,8.0,08/03/2025,Customer 18,Calicut,Cooking Oil,Grocery,180
+1090,22,12,6.0,2025-04-10,Customer 22,Kochi,Snacks Box,Grocery,150
+1091,50,9,9.0,21/09/2025,Customer 50,Bangalore,Rice 5kg,Grocery,450
+1092,11,11,4.0,2025-01-19,Customer 11,Trivandrum,Coffee Pack,Grocery,320
+1093,14,11,10.0,2025-06-13,Customer 14,Bangalore,Coffee Pack,Grocery,320
+1094,21,6,9.0,2025-08-06,Customer 21,Trivandrum,Jeans,Clothing,1800
+1095,50,10,4.0,2025-02-18,Customer 50,Bangalore,Cooking Oil,Grocery,180
+1096,43,4,5.0,2025-04-18,Customer 43,Bangalore,Smart Watch,Electronics,6000
+1097,2,6,6.0,06/05/2025,Customer 2,BANGALORE,Jeans,Clothing,1800
+1098,12,7,8.0,31/08/2025,Customer 12,Chennai,Sneakers,Clothing,3200
+1099,42,12,7.0,2025-12-23,Customer 42,Bangalore,Snacks Box,Grocery,150
+1100,3,11,9.0,02/11/2025,Customer 3,Bangalore,Coffee Pack,Grocery,320
+1101,43,6,4.0,11/03/2025,Customer 43,Bangalore,Jeans,Clothing,1800
+1102,15,8,6.0,07/01/2025,Customer 15,Bangalore,Jacket,Clothing,4500
+1103,46,3,5.0,2025-01-19,Customer 46,Chennai,Headphones,Electronics,2500
+1104,15,10,10.0,2025-08-06,Customer 15,Bangalore,Cooking Oil,Grocery,180
+1105,22,7,4.0,2025-02-27,Customer 22,Kochi,Sneakers,Clothing,3200
+1106,34,7,6.0,26/03/2025,Customer 34,Trivandrum,Sneakers,Clothing,3200
+1107,7,10,2.0,06/11/2025,Customer 7,Calicut,Cooking Oil,Grocery,180
+1108,28,8,9.0,2025-11-15,Customer 28,Chennai,Jacket,Clothing,4500
+1109,26,1,4.0,03/11/2025,Customer 26,Bangalore,Laptop, electronics ,55000
+1110,40,4,4.0,2025-04-03,Customer 40,Bangalore,Smart Watch,Electronics,6000
+1111,50,3,6.0,2025-08-15,Customer 50,Bangalore,Headphones,Electronics,2500
+1112,34,9,5.0,11/08/2025,Customer 34,Trivandrum,Rice 5kg,Grocery,450
+1113,21,1,9.0,09/03/2025,Customer 21,Trivandrum,Laptop,Electronics,55000
+1114,21,3,6.0,22/07/2025,Customer 21,TRIVANDRUM,Headphones,Electronics,2500
+1115,21,8,6.0,2025-07-11,Customer 21,Trivandrum,Jacket,Clothing,4500
+1116,41,9,2.0,2025-05-25,Customer 41,Calicut,Rice 5kg,Grocery,450
+1117,17,7,1.0,02/10/2025,Customer 17,Trivandrum,Sneakers, electronics ,3200
+1118,9,11,4.0,2025-09-05,Customer 9,Kochi,Coffee Pack,Grocery,320
+1119,17,12,10.0,14/07/2025,Customer 17,Trivandrum,Snacks Box,Grocery,150
+1120,2,2,10.0,22/09/2025,Customer 2,Bangalore,Smartphone,Electronics,22000
+1121,6,12,7.0,2025-10-06,Customer 6,Chennai,Snacks Box,Grocery,150
+1122,5,8,7.0,26/07/2025,Customer 5,Trivandrum,Jacket,Clothing,4500
+1123,39,8,4.0,08/04/2025,Customer 39,Kochi,Jacket,Clothing,4500
+1124,37,2,2.0,2025-10-04,Customer 37,Chennai,Smartphone,Electronics,22000
+1125,35,8,1.0,19/09/2025,Customer 35,CHENNAI,Jacket,Clothing,4500
+1126,24,9,4.0,2025-12-25,Customer 24,Chennai,Rice 5kg,Grocery,450
+1127,36,7,4.0,24/02/2025,Customer 36,Calicut,Sneakers, electronics ,3200
+1128,9,2,2.0,03/06/2025,Customer 9,Kochi,Smartphone,Electronics,22000
+1129,46,7,3.0,04/12/2025,Customer 46,CHENNAI,Sneakers,Clothing,3200
+1130,26,12,1.0,07/07/2025,Customer 26,Bangalore,Snacks Box,Grocery,150
+1131,47,9,7.0,11/12/2025,Customer 47,Trivandrum,Rice 5kg,Grocery,450
+1132,8,2,10.0,05/01/2025,Customer 8,Bangalore,Smartphone,Electronics,22000
+1133,25,12,7.0,2025-01-13,Customer 25,BANGALORE,Snacks Box,Grocery,150
+1134,35,12,5.0,18/10/2025,Customer 35,CHENNAI,Snacks Box,Grocery,150
+1135,25,3,5.0,11/05/2025,Customer 25,Bangalore,Headphones,Electronics,2500
+1136,23,10,4.0,09/07/2025,Customer 23,Calicut,Cooking Oil,Grocery,180
+1137,9,5,2.0,06/06/2025,Customer 9,Kochi,T-Shirt,Clothing,600
+1138,20,8,6.0,29/05/2025,Customer 20,Trivandrum,Jacket,Clothing,4500
+1139,12,6,6.0,2025-12-09,Customer 12,Chennai,Jeans,Clothing,1800
+1140,16,10,1.0,04/02/2025,Customer 16,Bangalore,Cooking Oil,Grocery,180
+1141,35,12,5.0,2025-10-09,Customer 35,Chennai,Snacks Box,Grocery,150
+1142,32,10,3.0,2025-11-21,Customer 32,Kochi,Cooking Oil, electronics ,180
+1143,31,12,2.0,28/08/2025,Customer 31,Trivandrum,Snacks Box, electronics ,150
+1144,19,12,8.0,25/05/2025,Customer 19,Chennai,Snacks Box,Grocery,150
+1145,48,2,6.0,28/02/2025,Customer 48,Chennai,Smartphone,Electronics,22000
+1146,5,4,7.0,2025-09-07,Customer 5,Trivandrum,Smart Watch, electronics ,6000
+1147,18,9,8.0,21/06/2025,Customer 18,Calicut,Rice 5kg,Grocery,450
+1148,6,8,,2025-02-24,Customer 6,Chennai,Jacket,Clothing,4500
+1149,17,1,9.0,2025-05-12,Customer 17,Trivandrum,Laptop,Electronics,55000
+1150,49,2,7.0,2025-12-17,Customer 49,Bangalore,Smartphone, electronics ,22000
+1151,19,7,9.0,2025-04-07,Customer 19,CHENNAI,Sneakers,Clothing,3200
+1152,46,8,5.0,2025-03-07,Customer 46,Chennai,Jacket,Clothing,4500
+1153,25,3,10.0,06/09/2025,Customer 25,,Headphones,Electronics,2500
+1154,35,3,8.0,14/03/2025,Customer 35,Chennai,Headphones,Electronics,2500
+1155,23,2,7.0,02/12/2025,Customer 23,Calicut,Smartphone,Electronics,22000
+1156,14,7,10.0,2025-11-10,Customer 14,Bangalore,Sneakers,Clothing,3200
+1157,39,1,6.0,2025-12-25,Customer 39,Kochi,Laptop,Electronics,55000
+1158,49,7,8.0,2025-11-30,Customer 49,BANGALORE,Sneakers,Clothing,3200
+1159,14,6,3.0,30/03/2025,Customer 14,Bangalore,Jeans,Clothing,1800
+1160,39,6,10.0,2025-03-19,Customer 39,Kochi,Jeans,Clothing,1800
+1161,14,9,7.0,06/05/2025,Customer 14,,Rice 5kg,Grocery,450
+1162,36,7,8.0,21/06/2025,Customer 36,Calicut,Sneakers,Clothing,3200
+1163,40,9,5.0,2025-11-18,Customer 40,Bangalore,Rice 5kg,Grocery,450
+1164,23,10,9.0,25/09/2025,Customer 23,Calicut,Cooking Oil,Grocery,180
+1165,37,12,1.0,24/08/2025,Customer 37,Chennai,Snacks Box,Grocery,150
+1166,14,10,2.0,2025-11-17,Customer 14,Bangalore,Cooking Oil,Grocery,180
+1167,4,7,6.0,24/08/2025,Customer 4,Trivandrum,Sneakers,Clothing,3200
+1168,5,6,8.0,19/05/2025,Customer 5,Trivandrum,Jeans,Clothing,1800
+1169,23,3,9.0,31/05/2025,Customer 23,Calicut,Headphones,Electronics,2500
+1170,46,8,5.0,08/07/2025,Customer 46,Chennai,Jacket,Clothing,4500
+1171,7,2,7.0,2025-02-02,Customer 7,Calicut,Smartphone,Electronics,22000
+1172,23,12,6.0,2025-09-28,Customer 23,Calicut,Snacks Box,Grocery,150
+1173,36,11,10.0,27/08/2025,Customer 36,Calicut,Coffee Pack,Grocery,320
+1174,11,2,7.0,24/09/2025,Customer 11,Trivandrum,Smartphone,Electronics,22000
+1175,37,10,5.0,14/07/2025,Customer 37,Chennai,Cooking Oil,Grocery,180
+1176,16,2,10.0,2025-10-13,Customer 16,Bangalore,Smartphone,Electronics,22000
+1177,41,9,,2025-12-13,Customer 41,Calicut,Rice 5kg,Grocery,450
+1178,29,2,10.0,2025-07-28,Customer 29,Trivandrum,Smartphone,Electronics,22000
+1179,28,6,2.0,12/06/2025,Customer 28,Chennai,Jeans,Clothing,1800
+1180,9,8,,08/02/2025,Customer 9,Kochi,Jacket, electronics ,4500
+1181,24,9,9.0,12/10/2025,Customer 24,Chennai,Rice 5kg,Grocery,450
+1182,43,6,8.0,2025-11-26,Customer 43,Bangalore,Jeans,Clothing,1800
+1183,1,12,10.0,13/09/2025,Customer 1,Calicut,Snacks Box,Grocery,150
+1184,38,10,8.0,2025-11-12,Customer 38,Chennai,Cooking Oil,Grocery,180
+1185,25,3,7.0,2025-11-11,Customer 25,Bangalore,Headphones,Electronics,2500
+1186,36,9,4.0,19/10/2025,Customer 36,Calicut,Rice 5kg,Grocery,450
+1187,34,9,1.0,03/07/2025,Customer 34,Trivandrum,Rice 5kg,Grocery,450
+1188,22,5,2.0,06/02/2025,Customer 22,Kochi,T-Shirt,Clothing,600
+1189,16,9,3.0,02/01/2025,Customer 16,Bangalore,Rice 5kg,Grocery,450
+1190,32,11,1.0,16/03/2025,Customer 32,Kochi,Coffee Pack,Grocery,320
+1191,8,10,6.0,2025-06-07,Customer 8,Bangalore,Cooking Oil,Grocery,180
+1192,30,10,8.0,29/09/2025,Customer 30,Trivandrum,Cooking Oil,Grocery,180
+1193,5,8,10.0,16/06/2025,Customer 5,Trivandrum,Jacket,Clothing,4500
+1194,33,4,5.0,2025-01-09,Customer 33,Calicut,Smart Watch,Electronics,6000
+1195,32,10,,2025-03-18,Customer 32,Kochi,Cooking Oil,Grocery,180
+1196,5,5,10.0,24/12/2025,Customer 5,Trivandrum,T-Shirt,Clothing,600
+1197,38,7,9.0,2025-12-27,Customer 38,Chennai,Sneakers,Clothing,3200
+1198,21,4,5.0,2025-05-18,Customer 21,Trivandrum,Smart Watch,Electronics,6000
+1199,40,4,4.0,2025-10-21,Customer 40,BANGALORE,Smart Watch,Electronics,6000
+1200,3,2,,2025-09-20,Customer 3,Bangalore,Smartphone,Electronics,22000
+1201,9,12,3.0,06/12/2025,Customer 9,Kochi,Snacks Box,Grocery,150
+1202,25,2,5.0,2025-11-20,Customer 25,Bangalore,Smartphone,Electronics,22000
+1203,10,2,1.0,18/08/2025,Customer 10,Calicut,Smartphone, electronics ,22000
+1204,17,12,8.0,2025-05-25,Customer 17,Trivandrum,Snacks Box,Grocery,150
+1205,34,7,7.0,2025-08-17,Customer 34,Trivandrum,Sneakers,Clothing,3200
+1206,8,6,1.0,27/04/2025,Customer 8,Bangalore,Jeans,Clothing,1800
+1207,34,9,3.0,08/05/2025,Customer 34,Trivandrum,Rice 5kg,Grocery,450
+1208,6,5,6.0,2025-08-11,Customer 6,Chennai,T-Shirt,Clothing,600
+1209,9,2,6.0,2025-07-28,Customer 9,Kochi,Smartphone,Electronics,22000
+1210,30,9,9.0,01/08/2025,Customer 30,Trivandrum,Rice 5kg,Grocery,450
+1211,40,3,3.0,2025-05-21,Customer 40,Bangalore,Headphones,Electronics,2500
+1212,9,7,10.0,2025-05-30,Customer 9,Kochi,Sneakers,Clothing,3200
+1213,15,12,5.0,04/01/2025,Customer 15,Bangalore,Snacks Box,Grocery,150
+1214,47,12,9.0,08/08/2025,Customer 47,Trivandrum,Snacks Box,Grocery,150
+1215,50,5,3.0,30/07/2025,Customer 50,Bangalore,T-Shirt,Clothing,600
+1216,30,10,1.0,2025-12-08,Customer 30,Trivandrum,Cooking Oil,Grocery,180
+1217,23,8,1.0,04/07/2025,Customer 23,Calicut,Jacket,Clothing,4500
+1218,18,6,4.0,2025-06-20,Customer 18,Calicut,Jeans,Clothing,1800
+1219,31,2,10.0,25/01/2025,Customer 31,TRIVANDRUM,Smartphone,Electronics,22000
+1220,30,5,1.0,2025-03-13,Customer 30,Trivandrum,T-Shirt,Clothing,600
+1221,15,8,4.0,04/05/2025,Customer 15,Bangalore,Jacket, electronics ,4500
+1222,2,12,2.0,18/05/2025,Customer 2,Bangalore,Snacks Box,Grocery,150
+1223,8,1,10.0,2025-05-13,Customer 8,Bangalore,Laptop,Electronics,55000
+1224,48,9,7.0,24/05/2025,Customer 48,Chennai,Rice 5kg,Grocery,450
+1225,21,11,8.0,2025-10-08,Customer 21,Trivandrum,Coffee Pack,Grocery,320
+1226,25,12,8.0,2025-02-17,Customer 25,Bangalore,Snacks Box,Grocery,150
+1227,24,6,7.0,2025-05-02,Customer 24,Chennai,Jeans,Clothing,1800
+1228,40,2,8.0,2025-03-01,Customer 40,Bangalore,Smartphone, electronics ,22000
+1229,4,4,1.0,23/04/2025,Customer 4,Trivandrum,Smart Watch,Electronics,6000
+1230,5,11,9.0,2025-09-07,Customer 5,Trivandrum,Coffee Pack,Grocery,320
+1231,14,11,8.0,2025-01-18,Customer 14,Bangalore,Coffee Pack,Grocery,320
+1232,25,8,8.0,04/05/2025,Customer 25,Bangalore,Jacket, electronics ,4500
+1233,34,2,4.0,09/01/2025,Customer 34,Trivandrum,Smartphone,Electronics,22000
+1234,25,2,9.0,2025-12-15,Customer 25,Bangalore,Smartphone,Electronics,22000
+1235,23,6,4.0,23/09/2025,Customer 23,Calicut,Jeans,Clothing,1800
+1236,47,8,1.0,2025-03-30,Customer 47,Trivandrum,Jacket,Clothing,4500
+1237,9,1,10.0,2025-03-14,Customer 9,Kochi,Laptop,Electronics,55000
+1238,29,9,3.0,2025-02-06,Customer 29,Trivandrum,Rice 5kg,Grocery,450
+1239,28,7,2.0,22/06/2025,Customer 28,Chennai,Sneakers,Clothing,3200
+1240,24,1,7.0,03/10/2025,Customer 24,Chennai,Laptop,Electronics,55000
+1241,41,2,3.0,02/08/2025,Customer 41,Calicut,Smartphone,Electronics,22000
+1242,14,6,9.0,18/11/2025,Customer 14,Bangalore,Jeans,Clothing,1800
+1243,48,9,5.0,2025-05-06,Customer 48,Chennai,Rice 5kg,Grocery,450
+1244,17,10,1.0,2025-04-12,Customer 17,Trivandrum,Cooking Oil,Grocery,180
+1245,28,6,10.0,24/06/2025,Customer 28,Chennai,Jeans,Clothing,1800
+1246,27,4,6.0,15/03/2025,Customer 27,Trivandrum,Smart Watch,Electronics,6000
+1247,43,12,3.0,2025-12-23,Customer 43,Bangalore,Snacks Box,Grocery,150
+1248,22,6,7.0,09/03/2025,Customer 22,Kochi,Jeans,Clothing,1800
+1249,15,4,6.0,2025-06-24,Customer 15,Bangalore,Smart Watch,Electronics,6000
+1250,2,6,1.0,10/07/2025,Customer 2,Bangalore,Jeans,Clothing,1800
+1251,19,1,8.0,2025-01-21,Customer 19,Chennai,Laptop,Electronics,55000
+1252,42,4,5.0,20/06/2025,Customer 42,Bangalore,Smart Watch,Electronics,6000
+1253,1,7,7.0,2025-06-15,Customer 1,Calicut,Sneakers,Clothing,3200
+1254,45,12,9.0,05/04/2025,Customer 45,Calicut,Snacks Box,Grocery,150
+1255,28,9,7.0,2025-02-16,Customer 28,Chennai,Rice 5kg,Grocery,450
+1256,8,10,7.0,17/01/2025,Customer 8,Bangalore,Cooking Oil,Grocery,180
+1257,16,7,3.0,04/01/2025,Customer 16,Bangalore,Sneakers,Clothing,3200
+1258,28,2,3.0,2025-06-25,Customer 28,CHENNAI,Smartphone,Electronics,22000
+1259,16,5,5.0,02/02/2025,Customer 16,Bangalore,T-Shirt,Clothing,600
+1260,6,12,9.0,17/12/2025,Customer 6,Chennai,Snacks Box,Grocery,150
+1261,34,1,6.0,31/03/2025,Customer 34,TRIVANDRUM,Laptop,Electronics,55000
+1262,34,11,4.0,27/08/2025,Customer 34,Trivandrum,Coffee Pack,Grocery,320
+1263,6,9,8.0,03/09/2025,Customer 6,CHENNAI,Rice 5kg,Grocery,450
+1264,15,4,9.0,2025-06-30,Customer 15,Bangalore,Smart Watch,Electronics,6000
+1265,13,10,10.0,19/11/2025,Customer 13,Bangalore,Cooking Oil,Grocery,180
+1266,33,11,3.0,2025-02-10,Customer 33,Calicut,Coffee Pack,Grocery,320
+1267,37,1,8.0,2025-03-27,Customer 37,Chennai,Laptop,Electronics,55000
+1268,37,2,6.0,03/04/2025,Customer 37,Chennai,Smartphone,Electronics,22000
+1269,47,8,5.0,2025-02-19,Customer 47,Trivandrum,Jacket,Clothing,4500
+1270,39,12,4.0,2025-04-18,Customer 39,Kochi,Snacks Box,Grocery,150
+1271,17,1,2.0,2025-04-25,Customer 17,Trivandrum,Laptop,Electronics,55000
+1272,6,8,3.0,07/10/2025,Customer 6,CHENNAI,Jacket,Clothing,4500
+1273,31,2,6.0,21/04/2025,Customer 31,Trivandrum,Smartphone,Electronics,22000
+1274,46,8,9.0,16/11/2025,Customer 46,Chennai,Jacket,Clothing,4500
+1275,49,8,9.0,2025-10-10,Customer 49,Bangalore,Jacket,Clothing,4500
+1276,12,2,2.0,2025-11-26,Customer 12,Chennai,Smartphone,Electronics,22000
+1277,12,9,7.0,2025-02-08,Customer 12,Chennai,Rice 5kg,Grocery,450
+1278,2,11,1.0,26/12/2025,Customer 2,Bangalore,Coffee Pack,Grocery,320
+1279,8,11,7.0,2025-08-13,Customer 8,Bangalore,Coffee Pack,Grocery,320
+1280,28,1,,25/12/2025,Customer 28,Chennai,Laptop,Electronics,55000
+1281,28,3,5.0,2025-05-10,Customer 28,Chennai,Headphones,Electronics,2500
+1282,19,3,8.0,14/12/2025,Customer 19,Chennai,Headphones,Electronics,2500
+1283,16,6,5.0,2025-08-03,Customer 16,BANGALORE,Jeans,Clothing,1800
+1284,42,2,9.0,2025-01-27,Customer 42,Bangalore,Smartphone,Electronics,22000
+1285,24,11,6.0,30/05/2025,Customer 24,Chennai,Coffee Pack,Grocery,320
+1286,41,10,10.0,20/02/2025,Customer 41,Calicut,Cooking Oil,Grocery,180
+1287,49,10,7.0,2025-12-10,Customer 49,Bangalore,Cooking Oil,Grocery,180
+1288,16,3,3.0,22/04/2025,Customer 16,Bangalore,Headphones,Electronics,2500
+1289,11,1,8.0,2025-03-23,Customer 11,Trivandrum,Laptop, electronics ,55000
+1290,48,11,5.0,2025-07-21,Customer 48,Chennai,Coffee Pack,Grocery,320
+1291,32,4,6.0,2025-06-05,Customer 32,Kochi,Smart Watch,Electronics,6000
+1292,15,8,2.0,05/02/2025,Customer 15,Bangalore,Jacket,Clothing,4500
+1293,32,11,2.0,26/10/2025,Customer 32,Kochi,Coffee Pack,Grocery,320
+1294,26,1,6.0,05/11/2025,Customer 26,Bangalore,Laptop,Electronics,55000
+1295,46,1,,2025-09-29,Customer 46,Chennai,Laptop, electronics ,55000
+1296,13,1,10.0,14/08/2025,Customer 13,Bangalore,Laptop,Electronics,55000
+1297,50,2,9.0,27/05/2025,Customer 50,BANGALORE,Smartphone,Electronics,22000
+1298,47,1,8.0,17/07/2025,Customer 47,Trivandrum,Laptop,Electronics,55000
+1299,10,10,8.0,2025-07-10,Customer 10,Calicut,Cooking Oil,Grocery,180
+1300,9,8,6.0,02/03/2025,Customer 9,Kochi,Jacket,Clothing,4500
+1301,27,12,1.0,2025-01-30,Customer 27,Trivandrum,Snacks Box,Grocery,150
+1302,3,10,4.0,2025-04-03,Customer 3,Bangalore,Cooking Oil, electronics ,180
+1303,15,12,5.0,2025-06-15,Customer 15,Bangalore,Snacks Box,Grocery,150
+1304,22,3,10.0,2025-02-28,Customer 22,Kochi,Headphones,Electronics,2500
+1305,49,4,3.0,2025-02-08,Customer 49,Bangalore,Smart Watch,Electronics,6000
+1306,50,11,5.0,2025-11-07,Customer 50,Bangalore,Coffee Pack,Grocery,320
+1307,8,3,4.0,17/05/2025,Customer 8,BANGALORE,Headphones,Electronics,2500
+1308,45,1,2.0,2025-08-02,Customer 45,Calicut,Laptop,Electronics,55000
+1309,5,9,2.0,2025-07-11,Customer 5,Trivandrum,Rice 5kg,Grocery,450
+1310,38,10,4.0,2025-09-26,Customer 38,CHENNAI,Cooking Oil, electronics ,180
+1311,43,12,1.0,2025-09-28,Customer 43,Bangalore,Snacks Box,Grocery,150
+1312,45,12,1.0,2025-04-19,Customer 45,Calicut,Snacks Box,Grocery,150
+1313,12,2,4.0,2025-11-06,Customer 12,Chennai,Smartphone,Electronics,22000
+1314,45,10,3.0,16/05/2025,Customer 45,Calicut,Cooking Oil,Grocery,180
+1315,6,11,6.0,01/11/2025,Customer 6,Chennai,Coffee Pack, electronics ,320
+1316,26,9,1.0,28/05/2025,Customer 26,Bangalore,Rice 5kg,Grocery,450
+1317,24,10,4.0,10/02/2025,Customer 24,Chennai,Cooking Oil,Grocery,180
+1318,16,11,5.0,05/10/2025,Customer 16,Bangalore,Coffee Pack,Grocery,320
+1319,2,6,10.0,12/01/2025,Customer 2,Bangalore,Jeans,Clothing,1800
+1320,39,1,7.0,09/10/2025,Customer 39,KOCHI,Laptop,Electronics,55000
+1321,17,6,9.0,2025-01-16,Customer 17,Trivandrum,Jeans,Clothing,1800
+1322,34,3,4.0,17/03/2025,Customer 34,Trivandrum,Headphones,Electronics,2500
+1323,21,2,5.0,2025-08-09,Customer 21,Trivandrum,Smartphone,Electronics,22000
+1324,19,2,5.0,2025-12-10,Customer 19,Chennai,Smartphone,Electronics,22000
+1325,45,9,9.0,30/05/2025,Customer 45,Calicut,Rice 5kg,Grocery,450
+1326,5,7,10.0,14/02/2025,Customer 5,,Sneakers,Clothing,3200
+1327,37,7,10.0,27/03/2025,Customer 37,Chennai,Sneakers,Clothing,3200
+1328,38,9,8.0,2025-11-24,Customer 38,Chennai,Rice 5kg, electronics ,450
+1329,19,7,6.0,23/09/2025,Customer 19,Chennai,Sneakers,Clothing,3200
+1330,14,8,6.0,2025-02-06,Customer 14,Bangalore,Jacket,Clothing,4500
+1331,1,2,10.0,2025-05-21,Customer 1,,Smartphone,Electronics,22000
+1332,47,11,3.0,2025-04-07,Customer 47,Trivandrum,Coffee Pack,Grocery,320
+1333,48,6,4.0,06/03/2025,Customer 48,Chennai,Jeans,Clothing,1800
+1334,13,2,9.0,05/11/2025,Customer 13,Bangalore,Smartphone,Electronics,22000
+1335,2,10,4.0,14/08/2025,Customer 2,Bangalore,Cooking Oil,Grocery,180
+1336,7,9,3.0,07/03/2025,Customer 7,Calicut,Rice 5kg,Grocery,450
+1337,4,1,6.0,26/08/2025,Customer 4,Trivandrum,Laptop,Electronics,55000
+1338,42,3,4.0,2025-05-31,Customer 42,Bangalore,Headphones,Electronics,2500
+1339,45,1,9.0,2025-01-23,Customer 45,CALICUT,Laptop, electronics ,55000
+1340,8,4,10.0,2025-06-14,Customer 8,Bangalore,Smart Watch,Electronics,6000
+1341,38,2,4.0,2025-03-09,Customer 38,Chennai,Smartphone,Electronics,22000
+1342,9,9,6.0,31/03/2025,Customer 9,KOCHI,Rice 5kg,Grocery,450
+1343,19,7,10.0,2025-11-17,Customer 19,Chennai,Sneakers,Clothing,3200
+1344,30,12,8.0,2025-09-17,Customer 30,Trivandrum,Snacks Box,Grocery,150
+1345,36,9,3.0,2025-02-18,Customer 36,Calicut,Rice 5kg,Grocery,450
+1346,44,8,6.0,2025-11-07,Customer 44,Kochi,Jacket,Clothing,4500
+1347,3,7,7.0,29/07/2025,Customer 3,BANGALORE,Sneakers,Clothing,3200
+1348,10,1,7.0,16/11/2025,Customer 10,Calicut,Laptop,Electronics,55000
+1349,15,1,1.0,30/09/2025,Customer 15,Bangalore,Laptop,Electronics,55000
+1350,16,8,3.0,04/05/2025,Customer 16,Bangalore,Jacket,Clothing,4500
+1351,50,1,,2025-07-15,Customer 50,Bangalore,Laptop,Electronics,55000
+1352,39,1,3.0,13/07/2025,Customer 39,Kochi,Laptop,Electronics,55000
+1353,17,3,3.0,2025-09-20,Customer 17,Trivandrum,Headphones,Electronics,2500
+1354,49,11,4.0,2025-04-01,Customer 49,BANGALORE,Coffee Pack,Grocery,320
+1355,25,6,2.0,02/05/2025,Customer 25,Bangalore,Jeans,Clothing,1800
+1356,26,9,2.0,31/03/2025,Customer 26,Bangalore,Rice 5kg,Grocery,450
+1357,22,5,4.0,2025-04-19,Customer 22,Kochi,T-Shirt,Clothing,600
+1358,8,3,9.0,2025-02-28,Customer 8,Bangalore,Headphones,Electronics,2500
+1359,47,5,1.0,14/01/2025,Customer 47,Trivandrum,T-Shirt,Clothing,600
+1360,1,2,,10/12/2025,Customer 1,CALICUT,Smartphone,Electronics,22000
+1361,9,10,1.0,2025-01-28,Customer 9,Kochi,Cooking Oil,Grocery,180
+1362,12,3,,21/11/2025,Customer 12,Chennai,Headphones,Electronics,2500
+1363,14,5,3.0,2025-01-02,Customer 14,Bangalore,T-Shirt,Clothing,600
+1364,7,12,8.0,11/10/2025,Customer 7,CALICUT,Snacks Box,Grocery,150
+1365,1,8,,30/04/2025,Customer 1,Calicut,Jacket,Clothing,4500
+1366,34,6,8.0,08/07/2025,Customer 34,,Jeans,Clothing,1800
+1367,49,7,7.0,2025-04-14,Customer 49,Bangalore,Sneakers,Clothing,3200
+1368,7,10,5.0,2025-06-29,Customer 7,Calicut,Cooking Oil,Grocery,180
+1369,15,4,9.0,14/06/2025,Customer 15,Bangalore,Smart Watch,Electronics,6000
+1370,26,8,5.0,2025-07-13,Customer 26,Bangalore,Jacket,Clothing,4500
+1371,47,11,10.0,24/05/2025,Customer 47,Trivandrum,Coffee Pack,Grocery,320
+1372,35,7,10.0,15/07/2025,Customer 35,CHENNAI,Sneakers,Clothing,3200
+1373,39,6,6.0,29/10/2025,Customer 39,Kochi,Jeans,Clothing,1800
+1374,30,2,7.0,08/06/2025,Customer 30,Trivandrum,Smartphone,Electronics,22000
+1375,21,3,3.0,2025-05-12,Customer 21,Trivandrum,Headphones,Electronics,2500
+1376,10,12,9.0,18/02/2025,Customer 10,Calicut,Snacks Box,Grocery,150
+1377,44,7,7.0,2025-05-12,Customer 44,Kochi,Sneakers,Clothing,3200
+1378,41,4,10.0,15/02/2025,Customer 41,Calicut,Smart Watch,Electronics,6000
+1379,2,6,3.0,2025-03-08,Customer 2,Bangalore,Jeans,Clothing,1800
+1380,36,7,8.0,14/12/2025,Customer 36,Calicut,Sneakers,Clothing,3200
+1381,5,7,5.0,2025-02-02,Customer 5,Trivandrum,Sneakers,Clothing,3200
+1382,37,9,2.0,25/06/2025,Customer 37,Chennai,Rice 5kg,Grocery,450
+1383,42,4,2.0,01/11/2025,Customer 42,Bangalore,Smart Watch,Electronics,6000
+1384,7,8,6.0,2025-12-14,Customer 7,Calicut,Jacket,Clothing,4500
+1385,22,6,4.0,2025-02-23,Customer 22,Kochi,Jeans,Clothing,1800
+1386,7,12,2.0,2025-03-01,Customer 7,Calicut,Snacks Box,Grocery,150
+1387,29,2,5.0,16/05/2025,Customer 29,Trivandrum,Smartphone,Electronics,22000
+1388,47,2,7.0,2025-07-22,Customer 47,Trivandrum,Smartphone,Electronics,22000
+1389,5,6,4.0,2025-12-17,Customer 5,Trivandrum,Jeans,Clothing,1800
+1390,20,7,10.0,2025-03-17,Customer 20,Trivandrum,Sneakers,Clothing,3200
+1391,49,9,8.0,02/03/2025,Customer 49,Bangalore,Rice 5kg,Grocery,450
+1392,16,5,6.0,2025-04-03,Customer 16,Bangalore,T-Shirt,Clothing,600
+1393,7,11,10.0,2025-11-16,Customer 7,Calicut,Coffee Pack,Grocery,320
+1394,25,6,5.0,2025-01-11,Customer 25,Bangalore,Jeans,Clothing,1800
+1395,26,2,2.0,19/05/2025,Customer 26,Bangalore,Smartphone,Electronics,22000
+1396,34,2,1.0,13/02/2025,Customer 34,Trivandrum,Smartphone,Electronics,22000
+1397,16,12,10.0,2025-02-27,Customer 16,Bangalore,Snacks Box,Grocery,150
+1398,48,2,10.0,2025-12-01,Customer 48,Chennai,Smartphone,Electronics,22000
+1399,27,12,8.0,2025-01-01,Customer 27,Trivandrum,Snacks Box,Grocery,150
+1400,15,4,2.0,28/04/2025,Customer 15,Bangalore,Smart Watch,Electronics,6000
+1401,49,2,3.0,01/12/2025,Customer 49,Bangalore,Smartphone,Electronics,22000
+1402,47,4,1.0,2025-08-10,Customer 47,Trivandrum,Smart Watch,Electronics,6000
+1403,25,8,1.0,27/01/2025,Customer 25,Bangalore,Jacket,Clothing,4500
+1404,2,6,3.0,19/06/2025,Customer 2,Bangalore,Jeans,Clothing,1800
+1405,30,10,6.0,2025-12-21,Customer 30,Trivandrum,Cooking Oil,Grocery,180
+1406,28,8,1.0,2025-05-27,Customer 28,Chennai,Jacket,Clothing,4500
+1407,8,5,10.0,2025-07-12,Customer 8,,T-Shirt,Clothing,600
+1408,32,8,5.0,14/07/2025,Customer 32,Kochi,Jacket, electronics ,4500
+1409,43,12,3.0,30/08/2025,Customer 43,Bangalore,Snacks Box,Grocery,150
+1410,6,5,6.0,2025-03-10,Customer 6,Chennai,T-Shirt,Clothing,600
+1411,37,2,8.0,03/11/2025,Customer 37,Chennai,Smartphone,Electronics,22000
+1412,8,5,4.0,27/12/2025,Customer 8,Bangalore,T-Shirt,Clothing,600
+1413,38,11,1.0,22/02/2025,Customer 38,Chennai,Coffee Pack,Grocery,320
+1414,21,3,1.0,2025-10-26,Customer 21,Trivandrum,Headphones,Electronics,2500
+1415,1,12,9.0,2025-10-26,Customer 1,Calicut,Snacks Box,Grocery,150
+1416,49,8,2.0,2025-09-28,Customer 49,Bangalore,Jacket,Clothing,4500
+1417,9,8,7.0,2025-05-16,Customer 9,Kochi,Jacket,Clothing,4500
+1418,30,4,4.0,21/06/2025,Customer 30,Trivandrum,Smart Watch,Electronics,6000
+1419,10,12,8.0,03/11/2025,Customer 10,Calicut,Snacks Box,Grocery,150
+1420,47,1,1.0,25/02/2025,Customer 47,Trivandrum,Laptop,Electronics,55000
+1421,37,4,9.0,30/10/2025,Customer 37,Chennai,Smart Watch,Electronics,6000
+1422,41,6,7.0,03/12/2025,Customer 41,Calicut,Jeans,Clothing,1800
+1423,22,6,5.0,06/09/2025,Customer 22,KOCHI,Jeans,Clothing,1800
+1424,24,6,3.0,05/05/2025,Customer 24,Chennai,Jeans,Clothing,1800
+1425,32,2,10.0,2025-07-24,Customer 32,Kochi,Smartphone,Electronics,22000
+1426,40,3,4.0,2025-01-19,Customer 40,Bangalore,Headphones,Electronics,2500
+1427,43,2,5.0,07/12/2025,Customer 43,Bangalore,Smartphone,Electronics,22000
+1428,1,7,4.0,05/05/2025,Customer 1,Calicut,Sneakers,Clothing,3200
+1429,34,5,3.0,2025-01-21,Customer 34,Trivandrum,T-Shirt,Clothing,600
+1430,6,7,5.0,2025-10-17,Customer 6,Chennai,Sneakers,Clothing,3200
+1431,15,8,2.0,2025-08-29,Customer 15,Bangalore,Jacket,Clothing,4500
+1432,42,9,1.0,16/08/2025,Customer 42,Bangalore,Rice 5kg,Grocery,450
+1433,13,7,3.0,2025-01-20,Customer 13,Bangalore,Sneakers,Clothing,3200
+1434,40,8,2.0,02/10/2025,Customer 40,BANGALORE,Jacket,Clothing,4500
+1435,24,8,5.0,21/08/2025,Customer 24,CHENNAI,Jacket,Clothing,4500
+1436,12,8,9.0,17/10/2025,Customer 12,Chennai,Jacket,Clothing,4500
+1437,17,8,2.0,29/10/2025,Customer 17,Trivandrum,Jacket,Clothing,4500
+1438,27,4,1.0,19/03/2025,Customer 27,Trivandrum,Smart Watch,Electronics,6000
+1439,39,3,2.0,18/03/2025,Customer 39,Kochi,Headphones,Electronics,2500
+1440,31,10,6.0,2025-12-04,Customer 31,Trivandrum,Cooking Oil,Grocery,180
+1441,47,5,3.0,13/07/2025,Customer 47,Trivandrum,T-Shirt,Clothing,600
+1442,44,7,5.0,09/06/2025,Customer 44,Kochi,Sneakers,Clothing,3200
+1443,38,3,1.0,15/04/2025,Customer 38,Chennai,Headphones,Electronics,2500
+1444,31,6,,22/08/2025,Customer 31,Trivandrum,Jeans,Clothing,1800
+1445,15,7,5.0,03/10/2025,Customer 15,Bangalore,Sneakers,Clothing,3200
+1446,21,8,5.0,01/01/2025,Customer 21,Trivandrum,Jacket,Clothing,4500
+1447,6,7,6.0,21/07/2025,Customer 6,Chennai,Sneakers,Clothing,3200
+1448,19,5,8.0,2025-12-29,Customer 19,Chennai,T-Shirt,Clothing,600
+1449,47,12,5.0,2025-04-13,Customer 47,Trivandrum,Snacks Box,Grocery,150
+1450,22,7,9.0,13/04/2025,Customer 22,Kochi,Sneakers,Clothing,3200
+1451,6,10,6.0,2025-11-17,Customer 6,Chennai,Cooking Oil,Grocery,180
+1452,33,9,3.0,2025-01-23,Customer 33,Calicut,Rice 5kg,Grocery,450
+1453,49,7,3.0,2025-05-26,Customer 49,Bangalore,Sneakers,Clothing,3200
+1454,44,11,4.0,2025-06-17,Customer 44,Kochi,Coffee Pack,Grocery,320
+1455,14,2,6.0,2025-10-19,Customer 14,Bangalore,Smartphone,Electronics,22000
+1456,23,12,3.0,2025-02-17,Customer 23,Calicut,Snacks Box,Grocery,150
+1457,27,11,10.0,2025-06-08,Customer 27,Trivandrum,Coffee Pack,Grocery,320
+1458,13,7,5.0,25/02/2025,Customer 13,Bangalore,Sneakers,Clothing,3200
+1459,14,9,9.0,15/10/2025,Customer 14,Bangalore,Rice 5kg,Grocery,450
+1460,12,7,7.0,19/08/2025,Customer 12,Chennai,Sneakers,Clothing,3200
+1461,50,4,4.0,01/07/2025,Customer 50,BANGALORE,Smart Watch,Electronics,6000
+1462,38,10,3.0,24/05/2025,Customer 38,CHENNAI,Cooking Oil,Grocery,180
+1463,43,3,8.0,25/02/2025,Customer 43,Bangalore,Headphones,Electronics,2500
+1464,41,4,,2025-12-03,Customer 41,Calicut,Smart Watch,Electronics,6000
+1465,48,7,3.0,2025-08-25,Customer 48,Chennai,Sneakers,Clothing,3200
+1466,6,11,10.0,2025-04-27,Customer 6,Chennai,Coffee Pack,Grocery,320
+1467,45,5,5.0,01/06/2025,Customer 45,Calicut,T-Shirt,Clothing,600
+1468,4,6,1.0,23/09/2025,Customer 4,Trivandrum,Jeans,Clothing,1800
+1469,24,1,5.0,2025-09-20,Customer 24,Chennai,Laptop,Electronics,55000
+1470,30,2,5.0,2025-06-18,Customer 30,Trivandrum,Smartphone,Electronics,22000
+1471,18,1,9.0,2025-04-21,Customer 18,Calicut,Laptop,Electronics,55000
+1472,8,1,8.0,2025-08-29,Customer 8,Bangalore,Laptop,Electronics,55000
+1473,10,11,2.0,2025-08-29,Customer 10,CALICUT,Coffee Pack,Grocery,320
+1474,42,11,2.0,07/08/2025,Customer 42,Bangalore,Coffee Pack,Grocery,320
+1475,16,10,7.0,27/01/2025,Customer 16,Bangalore,Cooking Oil,Grocery,180
+1476,16,1,1.0,22/06/2025,Customer 16,Bangalore,Laptop,Electronics,55000
+1477,47,1,4.0,2025-08-13,Customer 47,Trivandrum,Laptop,Electronics,55000
+1478,8,4,2.0,2025-12-13,Customer 8,Bangalore,Smart Watch,Electronics,6000
+1479,46,7,1.0,11/07/2025,Customer 46,Chennai,Sneakers,Clothing,3200
+1480,47,5,10.0,2025-05-06,Customer 47,Trivandrum,T-Shirt,Clothing,600
+1481,30,6,1.0,22/07/2025,Customer 30,Trivandrum,Jeans,Clothing,1800
+1482,9,3,1.0,06/03/2025,Customer 9,Kochi,Headphones,Electronics,2500
+1483,8,9,10.0,03/02/2025,Customer 8,BANGALORE,Rice 5kg,Grocery,450
+1484,15,4,2.0,05/09/2025,Customer 15,Bangalore,Smart Watch,Electronics,6000
+1485,29,1,9.0,2025-12-26,Customer 29,Trivandrum,Laptop,Electronics,55000
+1486,8,9,1.0,05/11/2025,Customer 8,Bangalore,Rice 5kg,Grocery,450
+1487,23,11,2.0,2025-08-02,Customer 23,Calicut,Coffee Pack,Grocery,320
+1488,6,1,2.0,2025-01-15,Customer 6,Chennai,Laptop,Electronics,55000
+1489,28,6,8.0,27/12/2025,Customer 28,Chennai,Jeans,Clothing,1800
+1490,2,10,7.0,14/06/2025,Customer 2,Bangalore,Cooking Oil,Grocery,180
+1491,36,9,5.0,2025-04-16,Customer 36,Calicut,Rice 5kg,Grocery,450
+1492,3,11,3.0,22/11/2025,Customer 3,Bangalore,Coffee Pack,Grocery,320
+1493,10,5,1.0,2025-09-30,Customer 10,CALICUT,T-Shirt,Clothing,600
+1494,9,5,6.0,01/10/2025,Customer 9,Kochi,T-Shirt,Clothing,600
+1495,42,9,3.0,2025-04-12,Customer 42,Bangalore,Rice 5kg,Grocery,450
+1496,3,2,6.0,2025-12-29,Customer 3,Bangalore,Smartphone,Electronics,22000
+1497,22,3,7.0,15/06/2025,Customer 22,Kochi,Headphones,Electronics,2500
+1498,30,8,9.0,13/07/2025,Customer 30,Trivandrum,Jacket,Clothing,4500
+1499,26,9,5.0,2025-10-02,Customer 26,,Rice 5kg,Grocery,450
+1500,35,2,1.0,29/08/2025,Customer 35,Chennai,Smartphone,Electronics,22000
+1305,49,4,3.0,2025-02-08,Customer 49,Bangalore,Smart Watch,Electronics,6000
+1341,38,2,4.0,2025-03-09,Customer 38,Chennai,Smartphone,Electronics,22000
+1048,35,10,8.0,22/09/2025,Customer 35,Chennai,Cooking Oil,Grocery,180
+1068,7,4,6.0,2025-07-05,Customer 7,Calicut,Smart Watch,Electronics,6000
+1480,47,5,10.0,2025-05-06,Customer 47,Trivandrum,T-Shirt,Clothing,600
+1486,8,9,1.0,05/11/2025,Customer 8,Bangalore,Rice 5kg,Grocery,450
+1311,43,12,1.0,2025-09-28,Customer 43,Bangalore,Snacks Box,Grocery,150
+1032,22,11,10.0,2025-03-20,Customer 22,KOCHI,Coffee Pack,Grocery,320
+1250,2,6,1.0,10/07/2025,Customer 2,Bangalore,Jeans,Clothing,1800
+1091,50,9,9.0,21/09/2025,Customer 50,Bangalore,Rice 5kg,Grocery,450
